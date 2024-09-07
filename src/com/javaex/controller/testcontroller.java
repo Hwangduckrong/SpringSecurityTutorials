@@ -2,6 +2,9 @@ package com.javaex.controller;
 
 public class testcontroller {
 	
-잘 가지나?
+ int y=1;
+ int x=1;
+ 
+
 
 }
